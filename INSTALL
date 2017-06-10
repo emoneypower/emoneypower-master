@@ -1,0 +1,4 @@
+Building emoneypower
+See doc/readme-qt.rst for instructions on building emoneypower QT.
+
+See doc/build-*.txt for instructions on building emoneypowerd.
